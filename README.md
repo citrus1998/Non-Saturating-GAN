@@ -5,3 +5,8 @@
 wget http://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz    
 tar xf 102flowers.tgz   
 ```  
+
+## Training & Test  
+```  
+python3 main.py   
+```  
